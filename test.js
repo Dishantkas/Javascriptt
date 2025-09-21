@@ -8,7 +8,7 @@ accountCity = "Santiago";
 // console.log(accountID);
 
 
-/* Prefer not to use var, use let instead */  
+/* Prefer nott to use var,use let instead */  
 accountEmail = "ss";
 accountPassword = "5678";
 accountCity = "Valparaiso";
